@@ -13,7 +13,7 @@ namespace Tech_Assign_1
 
             // Testing if commits are working correctly
             Console.WriteLine("This one will test for commit changes!");
-            Console.WriteLine("Commit and pushes are working!!");
+            Console.WriteLine("Commit and pushes are working!");
         }
     }
 }
